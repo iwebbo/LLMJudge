@@ -1,4 +1,3 @@
-<img width="600" height="600" alt="Gemini_Generated_Image_9dh7re9dh7re9dh7" src="https://github.com/user-attachments/assets/1fee5c4b-0cbf-432b-8a01-f1ab82b60c33" />
 # LLMJudge
 
 ![License](https://img.shields.io/badge/MIT-00599C?style=for-the-badge&logo=MIT&logoColor=black)
