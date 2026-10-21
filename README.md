@@ -1,6 +1,4 @@
 # LLMJudge
-<img width="846" height="286" alt="LLMJudge2" src="https://github.com/user-attachments/assets/f411f62b-481e-40e0-94e4-36e0c2ccf04b" />
-
 
 ![License](https://img.shields.io/badge/MIT-00599C?style=for-the-badge&logo=MIT&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-4EAA25?style=for-the-badge&logo=Python&logoColor=black)
